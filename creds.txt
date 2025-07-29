@@ -1,2 +1,0 @@
-username=sachinkurabagatti
-password=123456
